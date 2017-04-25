@@ -1,7 +1,7 @@
-hapi-fhir-android-integration-test
+hapi-fhir-android-example-application
 =========
 
-HAPI FHIR Android Integration Test - Integration test for HAPI FHIR Android build
+HAPI FHIR Android Example Application
 
 [![GitHub issues](http://img.shields.io/github/issues/hapifhir/hapi-fhir-android-integration-test.svg)](http://github.com/hapifhir/hapi-fhir-android-integration-test/issues)
 [![License](https://img.shields.io/badge/license-apache%202.0-60C060.svg)](http://github.com/hapifhir/hapi-fhir-android-integration-test/issues)
