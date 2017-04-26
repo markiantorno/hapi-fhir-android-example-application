@@ -17,3 +17,11 @@ The test uses an open FHIR server available here:
 http://fhirtest.uhn.ca/
 
 This project is Open Source, licensed under the Apache Software License 2.0.
+
+TODO
+1. Implement observation downloading
+2. Create and upload single patients
+3. Create and upload single observations
+4. Manually type in new server address, have it saved to list for future
+5. Download observation by ID
+6. Download patient by ID
